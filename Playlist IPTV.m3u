@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Canal IPTV
-http://nine4k.com/live/39863354/93817492/883701.ts
+#EXTINF:-1 tvg-id="globo.rio.br" tvg-name="Globo Rio FHD" tvg-logo="http://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="114",Globo Rio FHD
+http://nine4k.com/live/39863354/93817492/215334.ts

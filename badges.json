@@ -600,19 +600,6 @@
     {
       "borderColor": "#00000000",
       "groupId": "language",
-      "id": "lang-lat",
-      "imageURL": "https://raw.githubusercontent.com/djgenesis/badges/refs/heads/main/badges/LANG LAT.png",
-      "isEnabled": true,
-      "name": "Español (Latinoamérica)",
-      "pattern": "(?i)#LANG_ES_LAT(?=\\s|$)",
-      "tagColor": "#00000000",
-      "tagStyle": "filled",
-      "textColor": "#00000000",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#00000000",
-      "groupId": "language",
       "id": "lang-de",
       "imageURL": "https://raw.githubusercontent.com/djgenesis/badges/refs/heads/main/badges/LANG DE.png",
       "isEnabled": true,
